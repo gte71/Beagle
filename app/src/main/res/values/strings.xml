@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beagle</string>
+    <string name="longitude">17.675529</string>
+    <string name="latitude">59.185522</string>
+</resources>
